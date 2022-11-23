@@ -59,7 +59,7 @@ The default values for various paramters parsed to the experiment are given in `
 * ```--label_iid:```     Default: 1. Default set to label IID. Set to 0 for label non-IID.
 * ```--alpha:```     Default: 1. The parameter of Dirichlet distribution that controls the non-IID level.
 
-** Citation
+## Citation
 If you find this project helpful, please consider to cite the following paper:
 ···
 @inproceedings{tan2022federated,

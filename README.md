@@ -61,11 +61,11 @@ The default values for various paramters parsed to the experiment are given in `
 
 ## Citation
 If you find this project helpful, please consider to cite the following paper:
-···
+```
 @inproceedings{tan2022federated,
   title={Federated Learning from Pre-Trained Models: A Contrastive Learning Approach},
   author={Tan, Yue and Long, Guodong and Ma, Jie and Liu, Lu and Zhou, Tianyi and Jiang, Jing},
   booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
   year={2022}
 }
-···
+```

@@ -44,7 +44,7 @@ python exps/federated_main.py --alg fedpcl    --dataset office --num_users 5 --r
 ```
 
 ## Options
-The default values for various paramters parsed to the experiment are given in ```options.py```. Details are given some of those parameters:
+The default values for various paramters parsed to the experiment are given in ```options.py```. Details about some of those parameters are given here.
 
 * ```--dataset:```  Default: 'digit'. Options: 'digit', 'office', 'domainnet'.
 * ```--num_classes:```  Default: 10. 

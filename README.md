@@ -1,6 +1,6 @@
 # Federated Learning from Pre-Trained Models: A Contrastive Learning Approach
 
-Implementation of the paper accepted by NeurIPS 2022: [Federated Learning from Pre-Trained Models: A Contrastive Learning Approach](https://arxiv.org/abs/2209.10083).
+Implementation of the paper accepted by NeurIPS 2022 Spotlight: [Federated Learning from Pre-Trained Models: A Contrastive Learning Approach](https://arxiv.org/abs/2209.10083).
 
 ## Requirments
 This code requires the following:

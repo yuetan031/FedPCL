@@ -12,7 +12,7 @@ This code requires the following:
 
 ## Data Preparation
 * Download the train and test datasets manually from the given links and put them under ```./data/``` directory.
-* Experiments are run on [Digit-5](https://drive.google.com/file/d/1moBE_ASD5vIOaU8ZHm_Nsj0KAfX5T0Sf/view), [Office-10](https://drive.google.com/file/d/1gxhV5xRXQgC9AL4XexduH7hdxDng7bJ3/view), and [Domainnet](https://drive.google.com/file/d/1_dx2-YDdvnNlQ13DTgDnLoGvMZvMyccR/view) with [source data](http://csr.bu.edu/ftp/visda/2019/multi-source/).
+* Experiments are run on [Digit-5](https://drive.google.com/file/d/1A4RJOFj4BJkmliiEL7g9WzNIDUHLxfmm/view), [Office-10](https://drive.google.com/drive/folders/1SJLhRiXbAwNpbgFXIg2KQRBZA5ZYQ62W?usp=share_link), and [Domainnet](https://drive.google.com/file/d/1_dx2-YDdvnNlQ13DTgDnLoGvMZvMyccR/view) with [source data](http://csr.bu.edu/ftp/visda/2019/multi-source/).
 
 ## Pre-Trained Models Preparation
 * Download the directory ```weight``` containing pre-trained foundation models from [HERE](https://drive.google.com/drive/folders/12fwBTyW881Q3n5tkhsv8qf2YweLh-wWu) and put it under ```./lib/model``` directory.
